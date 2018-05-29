@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MaterialDesignDemos</string>
+    <string name="fab_plus_btnDesc">fab plus button</string>
+</resources>
